@@ -5,6 +5,11 @@
 }
 
 .h-content{
-    background-color: #1f2937;
-
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo-ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
 }
