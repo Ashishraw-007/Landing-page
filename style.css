@@ -99,7 +99,7 @@ a{
 }
 
 .above-content{
-    background-color:turquoise;
+    background-color:dodgerblue;
     border-radius: 8px;
     padding: 20px 100px 20px 100px;
     display: flex;
@@ -108,7 +108,7 @@ a{
 }
 
 #sign_up{
-    background-color: turquoise ;
+    background-color: dodgerblue ;
     border-color: #E5E7EB;
     color: #E5E7EB;
 }
@@ -116,4 +116,21 @@ a{
 .below{
     background-color: #1f2937;
     color: #E5E7EB;
+}
+
+.p { 
+    font-size: 20px;
+    color: aliceblue;
+}
+#up{
+    margin-bottom: 0px;
+}
+#down{
+    margin-top: 0px;
+}
+
+.below{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
