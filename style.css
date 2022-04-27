@@ -49,3 +49,13 @@ a{
 
 /* --------------------2nd container---------------------------- */
 
+.All-cards{
+    padding: 0px 150px 50px 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.All-cards h2{
+    display: flex;
+    justify-content: center;
+}
