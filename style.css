@@ -78,3 +78,7 @@ a{
 
 /* --------------3rd container--------------------- */
 
+.Quote{
+    padding: 50px 150px 50px 150px;
+    background-color: #E5E7EB;
+}
