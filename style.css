@@ -81,4 +81,16 @@ a{
 .Quote{
     padding: 50px 150px 50px 150px;
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
+
+#quote{
+    font-size: 36px;
+}
+#sub{
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
