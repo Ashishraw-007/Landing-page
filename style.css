@@ -95,7 +95,13 @@ a{
 }
 
 .above{
+    padding: 50px 150px 50px 150px;
+}
 
+.above-content{
+    background-color:turquoise;
+    border-radius: 8px;
+    padding: 20px 100px 20px 100px;
 }
 
 .below{
