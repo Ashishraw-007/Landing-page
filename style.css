@@ -1,4 +1,10 @@
 .header{
     background-color: #1f2937;
     height: 400px;
+    padding: 0px 150px 50px 150px;
+}
+
+.h-content{
+    background-color: #1f2937;
+
 }
