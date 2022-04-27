@@ -22,11 +22,16 @@ li{
 a{
     text-decoration: none;
 }
-a, .hero-main p{
+a, .hero-main p, .img{
     font-size: 18px;
     color: #E5E7E8;
 }
-
+.hero-main {
+    width: 350px;
+}
+.img{
+    background-color: grey;
+}
 .hero-main h1{
     font-size: 48px;
     font-weight: extra-bold;
